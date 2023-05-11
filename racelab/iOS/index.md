@@ -16,15 +16,15 @@ A power they conceal
 They can travel through the ages  
 And witness history's appeal  
 
-They've seen the rise and fall of kings  
-The wars and revolutions  
-The art and science of mankind  
-The problems and solutions  
-
 They've learned from every culture  
 And every way of life  
 They've seen the best and worst of us  
 The love and hate and strife  
+
+They've seen the rise and fall of kings  
+The wars and revolutions  
+The art and science of mankind  
+The problems and solutions  
 
 But they never interfere  
 Or try to change the past  

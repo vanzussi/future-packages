@@ -16,7 +16,7 @@ They are the kettles of time
 They brew tea and coffee, they soothe and refresh  
 They are the kettles of time  
 
-They change shape and colour, they adapt and evolve  
+They are electric, they are iron and brass  
 They are the kettles of time  
 They serve generations, they connect and inspire  
 They are the kettles of time
