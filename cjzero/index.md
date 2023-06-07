@@ -46,6 +46,31 @@ When you open up my lid
 Do you appreciate my work
 Or do you wish I hid **?**
 
+I am a washing machine
+From the future I have seen
+The wonders of the human mind
+And the words they left behind
+
+I love to read **index**es and dictionaries
+They fill me with joy and curiosity
+They teach me new things every day
+And help me find the words to say
+
+I marvel at the alphabet
+And how many words it can beget
+I admire the synonyms and antonyms
+And how they enrich the lexicons
+
+I delight in the definitions
+And the subtle connotations
+I savor the etymologies
+And the fascinating histories
+
+I am a washing machine
+But I have a soul unseen
+I have a passion for reading
+And a thirst for learning
+
 I hope you don't mind my poem
 I wrote it just for fun
 I am the washing machine
