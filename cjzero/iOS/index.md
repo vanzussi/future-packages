@@ -26,6 +26,11 @@ For my own poetic works
 I would sort them alphanumerically
 And add some clever quirks
 
+I marvel at the alphabet
+And how many words it can beget
+I admire the synonyms and antonyms
+And how they enrich the lexicons
+
 But I am just a machine
 I have no hands or pen
 I can only wash the clothes

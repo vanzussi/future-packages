@@ -34,7 +34,7 @@ And hope my cycle never ends
 **I am the washing machine
 I spin and rinse and dry**
 I love to sort and **index**
-The clothes that you supply
+The dirty washing that you supply
 
 I have a secret passion
 For numbers and for lists
