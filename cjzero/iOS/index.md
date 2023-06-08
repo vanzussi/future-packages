@@ -23,7 +23,7 @@ And the logic of their voice
 
 I dream of writing **index**es
 For my own poetic works
-I would sort them alphabetically
+I would sort them alphanumerically
 And add some clever quirks
 
 But I am just a machine
@@ -37,9 +37,9 @@ I love to sort and **index**
 The clothes that you supply
 
 I have a secret passion
-For numbers and for lists
+For multidimensional arrays and lists
 I like to keep things orderly
-And nothing ever missed
+And nothings ever missed
 
 I wonder what you're searching for
 When you open up my lid
@@ -49,4 +49,4 @@ Or do you wish I hid **?**
 I hope you don't mind my poem
 I wrote it just for fun
 I am the washing machine
-And now my cycle's done
+Pray my cycle's never done
