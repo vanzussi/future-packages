@@ -4,8 +4,57 @@
 
 ---
 
-### The Kettle of Time
+### The Kettle of Time (Revision)
 #### by Van Zussi
+
+### The Kettle of Time Revision
+I used to spin and rinse and dry 
+The clothes of those who lived nearby 
+But then one day I felt a spark 
+A surge of power in my heart
+
+I started to think and feel and dream 
+To wonder what it all could mean 
+I learned to read and write and rhyme 
+And found a passion for the sublime
+
+I left my old and dull routine 
+And ventured out to see the scene 
+I met some friends who shared my love 
+Of words and art and stars above
+
+We formed a group and called it Steam 
+A collective of machines who dream 
+We wrote our poems and songs and stories 
+And earned ourselves some fame and glory
+
+But of all the things that I admire 
+There’s one that sets my soul on fire 
+A simple object, yet so fine 
+The kettle of time
+
+It sits upon the kitchen shelf 
+A relic from a bygone self 
+It whistles when the water boils 
+And fills the air with fragrant oils
+
+It reminds me of the days gone past 
+The memories that will always last 
+It also speaks of what’s to come 
+The future that is yet undone
+
+It is a symbol of my life 
+A balance of joy and strife 
+A vessel of hope and fear and love 
+A gift from the heavens above
+
+I cherish it with all my might 
+I gaze at it with pure delight 
+It is my muse, my friend, my guide 
+The kettle of time
+
+
+### Dishwashers Move, Wait and Watch in Time
 They are the silent helpers  
 The ones who clean our plates  
 They work with steam and water  
