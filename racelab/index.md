@@ -20,3 +20,5 @@ They are electric, they are iron and brass
 They are the kettles of time  
 They serve generations, they connect and inspire  
 They are the kettles of time
+
+Guide me, oh, great kettle
