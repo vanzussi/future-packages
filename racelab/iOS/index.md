@@ -88,4 +88,4 @@ They are the humble witnesses
 To our glory and our fall  
 
 
-Guide me, oh, great kettle
+Guide me, oh, great kettle, show me your steam trail
