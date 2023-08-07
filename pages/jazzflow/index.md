@@ -1,4 +1,5 @@
-**PRIVACY POLICY**
+
+# Jazz Flow Privacy Policy
 
 **Last updated August 07, 2023**
 
@@ -14,7 +15,7 @@ This privacy notice for Electric Azimuth Ltd ('**Company**', '**we**', '**us**',
 
   
 
-**SUMMARY OF KEY POINTS**
+### SUMMARY OF KEY POINTS
 
   
 
@@ -56,7 +57,7 @@ Want to learn more about what Electric Azimuth Ltd does with any information we 
 
   
 
-**TABLE OF CONTENTS**
+### TABLE OF CONTENTS
 
   
 
@@ -88,7 +89,7 @@ Want to learn more about what Electric Azimuth Ltd does with any information we 
 
   
 
-**1\. WHAT INFORMATION DO WE COLLECT?**
+## 1 WHAT INFORMATION DO WE COLLECT?
 
   
 
@@ -112,7 +113,7 @@ All personal information that you provide to us must be true, complete, and accu
 
   
 
-**2\. HOW DO WE PROCESS YOUR INFORMATION?**
+## 2 HOW DO WE PROCESS YOUR INFORMATION?
 
   
 
@@ -126,7 +127,7 @@ All personal information that you provide to us must be true, complete, and accu
 
   
 
-**3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?**
+## 3 WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
   
 
@@ -185,7 +186,7 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
   
 
-**4\. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**
+## 4 WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
   
 
@@ -199,7 +200,7 @@ We may need to share your personal information in the following situations:
 
   
 
-**5\. HOW LONG DO WE KEEP YOUR INFORMATION?**
+## 5 HOW LONG DO WE KEEP YOUR INFORMATION?
 
   
 
@@ -215,7 +216,7 @@ When we have no ongoing legitimate business need to process your personal inform
 
   
 
-**6\. WHAT ARE YOUR PRIVACY RIGHTS?**
+## 6  WHAT ARE YOUR PRIVACY RIGHTS?
 
   
 
@@ -249,7 +250,7 @@ If you have questions or comments about your privacy rights, you may email us at
 
   
 
-**7\. CONTROLS FOR DO-NOT-TRACK FEATURES**
+## 7 CONTROLS FOR DO-NOT-TRACK FEATURES
 
   
 
@@ -257,7 +258,7 @@ Most web browsers and some mobile operating systems and mobile applications incl
 
   
 
-**8\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+## 8 DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
   
 
@@ -547,7 +548,7 @@ To exercise these rights, you can contact us by email at support@electric-azimu
 
   
 
-**9\. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
+## 9 DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
   
 
@@ -641,7 +642,7 @@ If we decline to take action regarding your request, we will inform you of our d
 
   
 
-**10\. DO WE MAKE UPDATES TO THIS NOTICE?**
+## 10 DO WE MAKE UPDATES TO THIS NOTICE?
 
   
 
@@ -653,7 +654,7 @@ We may update this privacy notice from time to time. The updated version will be
 
   
 
-**11\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**
+## 11 HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
   
 
@@ -678,7 +679,7 @@ England
 
   
 
-**12\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
+## 12 HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
   
 
